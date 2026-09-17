@@ -1,0 +1,3 @@
+# REQUIREMENTS
+-node.js
+-pnpm
